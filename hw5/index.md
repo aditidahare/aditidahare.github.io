@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "HW5 – Licenses Visualization"
+permalink: /hw5/
 ---
 
 # HW5 – Professional Licenses Visualization (IS445)
@@ -17,7 +18,7 @@ title: "HW5 – Licenses Visualization"
 
 ## Plot 1 – Number of Licenses by License Type
 
-<iframe src="chart1.html" width="800" height="500"></iframe>
+<iframe src="chart1.html" width="800" height="500" style="border:none;"></iframe>
 
 ### Description
 This plot shows the distribution of professional licenses across different License Types in the Illinois licensing dataset. Each bar represents a license category, and the bar height represents the number of licenses issued.
@@ -35,7 +36,7 @@ No complex transformation was required. Altair performs aggregation using count(
 
 ## Plot 2 – Licenses Over Time by License Type (Interactive)
 
-<iframe src="chart2.html" width="800" height="500"></iframe>
+<iframe src="chart2.html" width="800" height="500" style="border:none;"></iframe>
 
 ### Description
 This interactive plot shows how license issuance trends change over time for different License Types. Each line represents the number of licenses issued in a given year.
