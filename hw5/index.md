@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "HW5 – Licenses Visualization"
+title: "HW5 – Licenses Visualization by Aditi Dahare"
 permalink: /hw5/
 ---
 
